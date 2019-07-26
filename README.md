@@ -1,1 +1,1 @@
-# DCGAN-with-MNIST
+# The project is still under progress.
